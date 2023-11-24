@@ -1,1 +1,1 @@
-console.log('Jerome');
+console.log('');
